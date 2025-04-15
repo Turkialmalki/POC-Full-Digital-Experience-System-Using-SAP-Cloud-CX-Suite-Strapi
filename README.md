@@ -90,42 +90,36 @@ This content layer powered all innovation forms, opportunities, public web pages
 
 #### 🗃 Collection Example: AI Form
 Used for managing submissions from entrepreneurs and innovators.
-![ai-form](/uploads/Screenshot 1446-10-17 at 12.29.23 PM.png)
 <img width="1728" alt="Screenshot 1446-10-17 at 12 29 23 PM" src="https://github.com/user-attachments/assets/593d1e0c-2375-440b-91e8-82b2facd10de" />
 
 ---
 
 #### 📋 Program Form Records
 Custom form handling for various workshops and live sessions across Riyadh and Al Khobar.
-![program-form](/uploads/Screenshot 1446-10-17 at 12.29.53 PM.png)
 <img width="1719" alt="Screenshot 1446-10-17 at 12 29 53 PM" src="https://github.com/user-attachments/assets/e8e3cc2c-664a-4315-a0a0-94b4c90052d2" />
 
 ---
 
 #### 🧾 Editable Landing Page
 One of many single-type content structures – powering the English homepage dynamically.
-![english-page](/uploads/Screenshot 1446-10-17 at 12.30.30 PM.png)
 <img width="1728" alt="Screenshot 1446-10-17 at 12 30 30 PM" src="https://github.com/user-attachments/assets/20f61790-ad00-46b5-b3d0-ab54ca219253" />
 
 ---
 
 #### 🌐 Public-Facing Innovation Portal
 Strapi’s content directly consumed to generate opportunity cards and status trackers.
-![frontend-result](/uploads/Screenshot 1446-10-17 at 12.31.23 PM.png)
 <img width="1627" alt="Screenshot 1446-10-17 at 12 31 23 PM" src="https://github.com/user-attachments/assets/a8275739-75d7-4625-a18e-71acc5b734e2" />
 
 ---
 
 #### 🧱 Component-Based Content Modeling
 Each challenge had flexible, reusable content blocks, banners, and partner references.
-![content-builder](/uploads/Screenshot 1446-10-17 at 12.31.51 PM.png)
 <img width="1728" alt="Screenshot 1446-10-17 at 12 31 51 PM" src="https://github.com/user-attachments/assets/bb9f03ab-1147-4069-8fce-c0366c12defe" />
 
 ---
 
 #### 🔐 Permission Configuration (Public API Role)
 Controlled API access to ensure security for guest and authenticated views.
-![permissions](/uploads/Screenshot 1446-10-17 at 12.32.20 PM.png)
 <img width="1689" alt="Screenshot 1446-10-17 at 12 32 20 PM" src="https://github.com/user-attachments/assets/a9583908-44a2-41c6-922e-04943a85a5de" />
 
 ---
