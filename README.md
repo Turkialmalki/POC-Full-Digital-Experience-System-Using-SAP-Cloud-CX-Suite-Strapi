@@ -15,6 +15,7 @@ SAP CDC was explored and prepared for seamless user login and identity managemen
 
 ## 📱 SAP Mobile Services (POC App)
 I created a full mobile service instance named `poc-react`, attached backend destinations (like my website), and explored features such as:
+![Uploading Screenshot 1446-10-17 at 11.01.39 AM.png…]()
 
 - 🔧 App Connectivity
 - 🔐 Authentication & Roles
